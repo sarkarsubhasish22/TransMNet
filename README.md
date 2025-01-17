@@ -1,4 +1,3 @@
-# TransMNet
 # README for MobileNet-Swin Transformer Hybrid Model
 
 ## Overview
@@ -146,18 +145,23 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
-Developed by Subhasish Sarkar, Gautam Kumar. Feel free to contact us for questions or contributions!
-
 ## Citation
-If you are using this code/part of the code, please cite this work as
+If you use this work, please cite:
+
+```
 @article{zu2024reswint,
-  title={Self-Attention Enhanced Depthwise Separable Convolution for Early Detection of Sugarcane Diseases and Nutrient Deficiencies},
-  author={Sarkar, Subhasish and Kumar, Gautam},
-  journal={The Visual Computer},
-  volume={},
-  pages={},
-  year={},
-  publisher={Springer}
+  title = {Self-Attention Enhanced Depthwise Separable Convolution for Early Detection of Sugarcane Diseases and Nutrient Deficiencies},
+  author = {Sarkar, Subhasish and Kumar, Gautam},
+  journal = {The Visual Computer},
+  volume = {},
+  pages = {},
+  year = {},
+  publisher = {Springer}
 }
+```
+
+---
+
+## Author
+Developed by Subhasish Sarkar and Gautam Kumar. Feel free to contact us for questions or contributions!
 
