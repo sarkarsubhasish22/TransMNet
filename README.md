@@ -152,11 +152,11 @@ If you use this work, please cite:
 @article{zu2024reswint,
   title = {Self-Attention Enhanced Depthwise Separable Convolution for Early Detection of Sugarcane Diseases and Nutrient Deficiencies},
   author = {Sarkar, Subhasish and Kumar, Gautam},
-  journal = {The Visual Computer},
+  journal = {},
   volume = {},
   pages = {},
   year = {},
-  publisher = {Springer}
+  publisher = {}
 }
 ```
 
